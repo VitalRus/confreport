@@ -1,0 +1,46 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={`Contact - ${SITE_TITLE}`} description="Contact the editorial team at Conflict Report." />
+		<style>
+			main {
+				width: 820px;
+				max-width: calc(100% - 2em);
+				margin: auto;
+				padding: 3em 1em;
+				color: #334155;
+				line-height: 1.7;
+			}
+			h1 { color: #0f172a; font-size: 2.2em; margin-bottom: 0.4em; }
+			p { margin-bottom: 1.2em; }
+			.contact-box {
+				background: #f8fafc;
+				border: 1px solid #e2e8f0;
+				padding: 2em;
+				border-radius: 8px;
+				margin-top: 2em;
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>Contact the Editorial Team</h1>
+			<p>For press inquiries, analytical submissions, corrections, or verification tips, please get in touch directly.</p>
+
+			<div class="contact-box">
+				<h3>Direct Communications</h3>
+				<p><strong>General Inquiries & Tips:</strong> <a href="mailto:contact@confreport.com">contact@confreport.com</a></p>
+				<p><strong>Response Window:</strong> Analytical review typically takes between 12 to 24 hours.</p>
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>

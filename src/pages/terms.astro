@@ -1,0 +1,43 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={`Terms of Service - ${SITE_TITLE}`} description="Terms and conditions governing access to Conflict Report." />
+		<style>
+			main {
+				width: 820px;
+				max-width: calc(100% - 2em);
+				margin: auto;
+				padding: 3em 1em;
+				color: #334155;
+				line-height: 1.7;
+			}
+			h1 { color: #0f172a; font-size: 2.2em; margin-bottom: 0.3em; }
+			h2 { color: #0f172a; font-size: 1.4em; margin-top: 1.8em; }
+			p { margin-bottom: 1.2em; }
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>Terms of Service</h1>
+			<p><em>Last updated: September 2026</em></p>
+
+			<h2>1. Editorial Disclaimer</h2>
+			<p>The materials, analyses, and data published on Conflict Report are intended strictly for educational, informational, and research purposes. We prioritize open-source intelligence (OSINT) methodologies, factual cross-verification, and strategic context.</p>
+
+			<h2>2. Intellectual Property</h2>
+			<p>Unless otherwise stated, all analytical content published on this website is the intellectual property of Conflict Report. Quotations and references are permitted with explicit source attribution and direct backlinking.</p>
+
+			<h2>3. Limitation of Liability</h2>
+			<p>Conflict Report shall not be held liable for any decisions, logistical adjustments, or interpretations made based on assessments published across our platform.</p>
+		</main>
+		<Footer />
+	</body>
+</html>
