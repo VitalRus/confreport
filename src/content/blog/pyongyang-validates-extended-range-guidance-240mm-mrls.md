@@ -2,7 +2,7 @@
 title: "Pyongyang Validates Extended-Range Guidance for 240mm MRLS Platform"
 description: "The Democratic People's Republic of Korea has successfully tested an advanced precision-guided munition for its legacy 240mm multiple rocket launcher systems. This technological pivot significantly extends operational ranges and heralds the systematic elimination of unguided ordnance from front-line artillery formations."
 pubDate: 2026-09-24T07:08:15Z
-heroImage: "/images/pyongyang-validates-extended-range-guidance-240mm-mrls/img_0.jpg"
+heroImage: "../../assets/blog-placeholder-3.jpg"
 ---
 
 Theater Overview: Recent telemetry and state media disclosures confirm that the Korean People's Army (KPA) conducted a series of live-fire validation trials on September 22 for an upgraded variant of its foundational 240mm multiple rocket launch system (MRLS). Historically reliant on saturation-fire doctrines utilizing unguided artillery rockets to threaten the greater Seoul metropolitan area, this operational vector marks a decisive shift toward precision-strike capability. The trials, closely monitored by defense intelligence analysts, validate the integration of newly developed tactical packages designed to replace legacy area-suppression munitions with targeted counter-battery and strategic interdiction assets.
