@@ -1,0 +1,16 @@
+---
+title: "DPRK Tests Advanced Guided 240mm MLRS Rockets with Extended Range"
+description: "North Korea has conducted live-fire tests of upgraded 240mm precision-guided MLRS munitions featuring dual ballistic and gliding trajectories up to 115 km."
+pubDate: "Sep 24 2026 09:36"
+heroImage: "/images/dprk-tests-guided-240mm-mlrs-extended-range/img_0.jpg"
+---
+
+On September 22, North Korean state media confirmed successful live-fire evaluations of an upgraded 240mm Multiple Launch Rocket System (MLRS) firing modernized guided munitions. This live-fire event marks a continued operational pivot by the Democratic People’s Republic of Korea (DPRK) away from legacy, unguided massed artillery barrages toward networked, high-precision tactical strike capabilities. By integrating active flight-correction packages into standard heavy rocket calibers, Pyongyang aims to significantly enhance its battlefield lethality and operational flexibility, transforming traditional saturation systems into counter-value and counter-force precision instruments along key regional vectors.
+
+The technical telemetry from the September test demonstrates substantial aerodynamic and guidance enhancements integrated into the 240mm rocket airframe. The newly tested munition employs a self-guided precision navigation unit capable of operating across two distinct flight profiles: a standard ballistic arc yielding an operational engagement range of 100 kilometers, and an extended-range combined glide flight trajectory reaching up to 115 kilometers. The addition of deployable glide control surfaces allows the rocket to execute mid-course maneuvers, suppressing apogee altitude to reduce radar tracking signatures while simultaneously extending stand-off distances beyond traditional counter-battery envelope capabilities.
+
+![Tactical Intelligence](/images/dprk-tests-guided-240mm-mlrs-extended-range/img_0.jpg)
+
+From a strategic and logistical standpoint, the rapid maturation of Pyongyang’s precision 240mm arsenal reshapes the operational theater along the Korean Peninsula and carries broader proliferation implications. Upgrading legacy 240mm artillery networks allows North Korea to maintain high target-coverage densities without requiring proportionate increases in propellant production or logistics footprints. Furthermore, given recent military-technical cooperation between Pyongyang and Moscow, the mass-production and operational proving of these guided 240mm systems create a viable export candidate for Russian forces seeking cost-effective, long-range tactical precision fires to supplement 220mm Uragan and 300mm Smerch inventories.
+
+Forward trajectory analysis indicates that the Korean People's Army (KPA) will likely prioritize the swift roll-out and operational integration of these guided 240mm units into front-line artillery brigades deployed north of the Demilitarized Zone (DMZ). Over the next 6 to 12 months, expect further integration of digital fire-control architecture and forward reconnaissance drones to maximize the terminal accuracy of these glide-capable rockets. This qualitative shift in DPRK artillery capabilities will necessitate recalibrations in Allied missile defense architectures, pushing US and South Korean forces to enhance low-altitude maneuver-phase interception systems and automated counter-battery response matrices.
